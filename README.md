@@ -1,5 +1,7 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+ Broderick Staggs
 
 # Your Github username
+
+ brodystaggs
